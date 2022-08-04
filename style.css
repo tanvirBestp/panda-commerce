@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 100px ;
 }
 .orange-bg{
     background-color: #FEEAE9;
@@ -18,4 +18,45 @@
 }
 .price{
     color: #FF136F;
+}
+.cat1{
+    background-color: #FF9C35;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: #FF589B;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: #4289FF;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px;
+}
+.cat{
+    margin-bottom: 20px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#contact-us{
+    height: 300px;
+}
+#contact-us p{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
